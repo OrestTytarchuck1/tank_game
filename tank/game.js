@@ -13,6 +13,10 @@ let player = {
 
 // 
 
+
+
+
+
 let enemies = [];
 let bullets = [];
 
