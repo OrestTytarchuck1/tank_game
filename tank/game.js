@@ -24,7 +24,7 @@ let bullets = [];
 document.addEventListener("keydown", e => {
     keys[e.key] = true;
 
-    if(e.key === " ") {asdfasdf
+    if(e.key === " ") {
         shoot();
     }
 });
